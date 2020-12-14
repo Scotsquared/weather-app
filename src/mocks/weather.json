@@ -1,0 +1,1948 @@
+{
+  "hours": [
+    {
+      "airTemperature": { "noaa": 7.73, "sg": 7.73 },
+      "cloudCover": { "noaa": 16, "sg": 16 },
+      "gust": { "noaa": 2.55, "sg": 2.55 },
+      "humidity": { "noaa": 52.5, "sg": 52.5 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-13T00:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 7.29, "sg": 7.29 },
+      "cloudCover": { "noaa": 30, "sg": 30 },
+      "gust": { "noaa": 2.9, "sg": 2.9 },
+      "humidity": { "noaa": 54.37, "sg": 54.37 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-13T01:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.84, "sg": 6.84 },
+      "cloudCover": { "noaa": 44, "sg": 44 },
+      "gust": { "noaa": 3.26, "sg": 3.26 },
+      "humidity": { "noaa": 56.23, "sg": 56.23 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-13T02:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.4, "sg": 6.4 },
+      "cloudCover": { "noaa": 58, "sg": 58 },
+      "gust": { "noaa": 3.62, "sg": 3.62 },
+      "humidity": { "noaa": 58.1, "sg": 58.1 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-13T03:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.29, "sg": 6.29 },
+      "cloudCover": { "noaa": 72, "sg": 72 },
+      "gust": { "noaa": 5.35, "sg": 5.35 },
+      "humidity": { "noaa": 59.07, "sg": 59.07 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-13T04:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.19, "sg": 6.19 },
+      "cloudCover": { "noaa": 86, "sg": 86 },
+      "gust": { "noaa": 7.08, "sg": 7.08 },
+      "humidity": { "noaa": 60.03, "sg": 60.03 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-13T05:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.08, "sg": 6.08 },
+      "cloudCover": { "noaa": 100, "sg": 100 },
+      "gust": { "noaa": 8.82, "sg": 8.82 },
+      "humidity": { "noaa": 61, "sg": 61 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-13T06:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.86, "sg": 5.86 },
+      "cloudCover": { "noaa": 100, "sg": 100 },
+      "gust": { "noaa": 9.19, "sg": 9.19 },
+      "humidity": { "noaa": 62.9, "sg": 62.9 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-13T07:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.63, "sg": 5.63 },
+      "cloudCover": { "noaa": 100, "sg": 100 },
+      "gust": { "noaa": 9.56, "sg": 9.56 },
+      "humidity": { "noaa": 64.8, "sg": 64.8 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-13T08:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.4, "sg": 5.4 },
+      "cloudCover": { "noaa": 100, "sg": 100 },
+      "gust": { "noaa": 9.93, "sg": 9.93 },
+      "humidity": { "noaa": 66.7, "sg": 66.7 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-13T09:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.67, "sg": 5.67 },
+      "cloudCover": { "noaa": 100, "sg": 100 },
+      "gust": { "noaa": 9.83, "sg": 9.83 },
+      "humidity": { "noaa": 67.03, "sg": 67.03 },
+      "precipitation": { "noaa": 0.24, "sg": 0.24 },
+      "time": "2020-12-13T10:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.94, "sg": 5.94 },
+      "cloudCover": { "noaa": 100, "sg": 100 },
+      "gust": { "noaa": 9.72, "sg": 9.72 },
+      "humidity": { "noaa": 67.37, "sg": 67.37 },
+      "precipitation": { "noaa": 0.48, "sg": 0.48 },
+      "time": "2020-12-13T11:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.22, "sg": 6.22 },
+      "cloudCover": { "noaa": 100, "sg": 100 },
+      "gust": { "noaa": 9.62, "sg": 9.62 },
+      "humidity": { "noaa": 67.7, "sg": 67.7 },
+      "precipitation": { "noaa": 0.72, "sg": 0.72 },
+      "time": "2020-12-13T12:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.01, "sg": 6.01 },
+      "cloudCover": { "noaa": 100, "sg": 100 },
+      "gust": { "noaa": 9.45, "sg": 9.45 },
+      "humidity": { "noaa": 73.7, "sg": 73.7 },
+      "precipitation": { "noaa": 0.48, "sg": 0.48 },
+      "time": "2020-12-13T13:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.81, "sg": 5.81 },
+      "cloudCover": { "noaa": 100, "sg": 100 },
+      "gust": { "noaa": 9.28, "sg": 9.28 },
+      "humidity": { "noaa": 79.7, "sg": 79.7 },
+      "precipitation": { "noaa": 0.24, "sg": 0.24 },
+      "time": "2020-12-13T14:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.61, "sg": 5.61 },
+      "cloudCover": { "noaa": 100, "sg": 100 },
+      "gust": { "noaa": 9.11, "sg": 9.11 },
+      "humidity": { "noaa": 85.7, "sg": 85.7 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-13T15:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.6, "sg": 5.6 },
+      "cloudCover": { "noaa": 100, "sg": 100 },
+      "gust": { "noaa": 9.06, "sg": 9.06 },
+      "humidity": { "noaa": 86.8, "sg": 86.8 },
+      "precipitation": { "noaa": 0.23, "sg": 0.23 },
+      "time": "2020-12-13T16:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.6, "sg": 5.6 },
+      "cloudCover": { "noaa": 100, "sg": 100 },
+      "gust": { "noaa": 9.01, "sg": 9.01 },
+      "humidity": { "noaa": 87.9, "sg": 87.9 },
+      "precipitation": { "noaa": 0.46, "sg": 0.46 },
+      "time": "2020-12-13T17:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.59, "sg": 5.59 },
+      "cloudCover": { "noaa": 100, "sg": 100 },
+      "gust": { "noaa": 8.96, "sg": 8.96 },
+      "humidity": { "noaa": 89, "sg": 89 },
+      "precipitation": { "noaa": 0.69, "sg": 0.69 },
+      "time": "2020-12-13T18:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 4.63, "sg": 4.63 },
+      "cloudCover": { "noaa": 99.67, "sg": 99.67 },
+      "gust": { "noaa": 10.55, "sg": 10.55 },
+      "humidity": { "noaa": 90.5, "sg": 90.5 },
+      "precipitation": { "noaa": 0.46, "sg": 0.46 },
+      "time": "2020-12-13T19:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 3.66, "sg": 3.66 },
+      "cloudCover": { "noaa": 99.33, "sg": 99.33 },
+      "gust": { "noaa": 12.15, "sg": 12.15 },
+      "humidity": { "noaa": 92, "sg": 92 },
+      "precipitation": { "noaa": 0.23, "sg": 0.23 },
+      "time": "2020-12-13T20:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.7, "sg": 2.7 },
+      "cloudCover": { "noaa": 99, "sg": 99 },
+      "gust": { "noaa": 13.74, "sg": 13.74 },
+      "humidity": { "noaa": 93.5, "sg": 93.5 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-13T21:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.71, "sg": 2.71 },
+      "cloudCover": { "noaa": 98.67, "sg": 98.67 },
+      "gust": { "noaa": 13.7, "sg": 13.7 },
+      "humidity": { "noaa": 90.77, "sg": 90.77 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-13T22:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.73, "sg": 2.73 },
+      "cloudCover": { "noaa": 98.33, "sg": 98.33 },
+      "gust": { "noaa": 13.67, "sg": 13.67 },
+      "humidity": { "noaa": 88.03, "sg": 88.03 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-13T23:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.74, "sg": 2.74 },
+      "cloudCover": { "noaa": 98, "sg": 98 },
+      "gust": { "noaa": 13.63, "sg": 13.63 },
+      "humidity": { "noaa": 85.3, "sg": 85.3 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T00:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.84, "sg": 2.84 },
+      "cloudCover": { "noaa": 81.67, "sg": 81.67 },
+      "gust": { "noaa": 12.3, "sg": 12.3 },
+      "humidity": { "noaa": 82.93, "sg": 82.93 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T01:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.93, "sg": 2.93 },
+      "cloudCover": { "noaa": 65.33, "sg": 65.33 },
+      "gust": { "noaa": 10.97, "sg": 10.97 },
+      "humidity": { "noaa": 80.57, "sg": 80.57 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T02:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 3.03, "sg": 3.03 },
+      "cloudCover": { "noaa": 49, "sg": 49 },
+      "gust": { "noaa": 9.64, "sg": 9.64 },
+      "humidity": { "noaa": 78.2, "sg": 78.2 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T03:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.09, "sg": 2.09 },
+      "cloudCover": { "noaa": 32.67, "sg": 32.67 },
+      "gust": { "noaa": 9.04, "sg": 9.04 },
+      "humidity": { "noaa": 81.47, "sg": 81.47 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T04:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 1.15, "sg": 1.15 },
+      "cloudCover": { "noaa": 16.33, "sg": 16.33 },
+      "gust": { "noaa": 8.44, "sg": 8.44 },
+      "humidity": { "noaa": 84.73, "sg": 84.73 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T05:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 0.21, "sg": 0.21 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 7.84, "sg": 7.84 },
+      "humidity": { "noaa": 88, "sg": 88 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T06:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": -0.26, "sg": -0.26 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 7.57, "sg": 7.57 },
+      "humidity": { "noaa": 87.6, "sg": 87.6 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T07:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": -0.74, "sg": -0.74 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 7.3, "sg": 7.3 },
+      "humidity": { "noaa": 87.2, "sg": 87.2 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T08:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": -1.22, "sg": -1.22 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 7.02, "sg": 7.02 },
+      "humidity": { "noaa": 86.8, "sg": 86.8 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T09:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": -1.36, "sg": -1.36 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 6.06, "sg": 6.06 },
+      "humidity": { "noaa": 84.7, "sg": 84.7 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T10:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": -1.51, "sg": -1.51 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 5.1, "sg": 5.1 },
+      "humidity": { "noaa": 82.6, "sg": 82.6 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T11:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": -1.65, "sg": -1.65 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 4.13, "sg": 4.13 },
+      "humidity": { "noaa": 80.5, "sg": 80.5 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T12:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": -0.8, "sg": -0.8 },
+      "cloudCover": { "noaa": 5, "sg": 5 },
+      "gust": { "noaa": 3.6, "sg": 3.6 },
+      "humidity": { "noaa": 74.73, "sg": 74.73 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T13:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 0.06, "sg": 0.06 },
+      "cloudCover": { "noaa": 10, "sg": 10 },
+      "gust": { "noaa": 3.06, "sg": 3.06 },
+      "humidity": { "noaa": 68.97, "sg": 68.97 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T14:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 0.91, "sg": 0.91 },
+      "cloudCover": { "noaa": 15, "sg": 15 },
+      "gust": { "noaa": 2.52, "sg": 2.52 },
+      "humidity": { "noaa": 63.2, "sg": 63.2 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T15:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.61, "sg": 2.61 },
+      "cloudCover": { "noaa": 20, "sg": 20 },
+      "gust": { "noaa": 2.49, "sg": 2.49 },
+      "humidity": { "noaa": 55.47, "sg": 55.47 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T16:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 4.32, "sg": 4.32 },
+      "cloudCover": { "noaa": 25, "sg": 25 },
+      "gust": { "noaa": 2.45, "sg": 2.45 },
+      "humidity": { "noaa": 47.73, "sg": 47.73 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T17:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.02, "sg": 6.02 },
+      "cloudCover": { "noaa": 30, "sg": 30 },
+      "gust": { "noaa": 2.41, "sg": 2.41 },
+      "humidity": { "noaa": 40, "sg": 40 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T18:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.75, "sg": 6.75 },
+      "cloudCover": { "noaa": 33.33, "sg": 33.33 },
+      "gust": { "noaa": 3.07, "sg": 3.07 },
+      "humidity": { "noaa": 38.73, "sg": 38.73 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T19:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 7.49, "sg": 7.49 },
+      "cloudCover": { "noaa": 36.67, "sg": 36.67 },
+      "gust": { "noaa": 3.74, "sg": 3.74 },
+      "humidity": { "noaa": 37.47, "sg": 37.47 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T20:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 8.23, "sg": 8.23 },
+      "cloudCover": { "noaa": 40, "sg": 40 },
+      "gust": { "noaa": 4.4, "sg": 4.4 },
+      "humidity": { "noaa": 36.2, "sg": 36.2 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T21:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.86, "sg": 6.86 },
+      "cloudCover": { "noaa": 43.33, "sg": 43.33 },
+      "gust": { "noaa": 5.58, "sg": 5.58 },
+      "humidity": { "noaa": 42.73, "sg": 42.73 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T22:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.49, "sg": 5.49 },
+      "cloudCover": { "noaa": 46.67, "sg": 46.67 },
+      "gust": { "noaa": 6.75, "sg": 6.75 },
+      "humidity": { "noaa": 49.27, "sg": 49.27 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-14T23:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 4.13, "sg": 4.13 },
+      "cloudCover": { "noaa": 50, "sg": 50 },
+      "gust": { "noaa": 7.92, "sg": 7.92 },
+      "humidity": { "noaa": 55.8, "sg": 55.8 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T00:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 3.74, "sg": 3.74 },
+      "cloudCover": { "noaa": 42.83, "sg": 42.83 },
+      "gust": { "noaa": 8.15, "sg": 8.15 },
+      "humidity": { "noaa": 57.67, "sg": 57.67 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T01:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 3.36, "sg": 3.36 },
+      "cloudCover": { "noaa": 35.67, "sg": 35.67 },
+      "gust": { "noaa": 8.39, "sg": 8.39 },
+      "humidity": { "noaa": 59.53, "sg": 59.53 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T02:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.98, "sg": 2.98 },
+      "cloudCover": { "noaa": 28.5, "sg": 28.5 },
+      "gust": { "noaa": 8.62, "sg": 8.62 },
+      "humidity": { "noaa": 61.4, "sg": 61.4 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T03:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.86, "sg": 2.86 },
+      "cloudCover": { "noaa": 21.33, "sg": 21.33 },
+      "gust": { "noaa": 9.79, "sg": 9.79 },
+      "humidity": { "noaa": 66.43, "sg": 66.43 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T04:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.75, "sg": 2.75 },
+      "cloudCover": { "noaa": 14.17, "sg": 14.17 },
+      "gust": { "noaa": 10.95, "sg": 10.95 },
+      "humidity": { "noaa": 71.47, "sg": 71.47 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T05:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.63, "sg": 2.63 },
+      "cloudCover": { "noaa": 7, "sg": 7 },
+      "gust": { "noaa": 12.11, "sg": 12.11 },
+      "humidity": { "noaa": 76.5, "sg": 76.5 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T06:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.61, "sg": 2.61 },
+      "cloudCover": { "noaa": 14.17, "sg": 14.17 },
+      "gust": { "noaa": 12.53, "sg": 12.53 },
+      "humidity": { "noaa": 81.23, "sg": 81.23 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T07:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.59, "sg": 2.59 },
+      "cloudCover": { "noaa": 21.33, "sg": 21.33 },
+      "gust": { "noaa": 12.94, "sg": 12.94 },
+      "humidity": { "noaa": 85.97, "sg": 85.97 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T08:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.57, "sg": 2.57 },
+      "cloudCover": { "noaa": 28.5, "sg": 28.5 },
+      "gust": { "noaa": 13.36, "sg": 13.36 },
+      "humidity": { "noaa": 90.7, "sg": 90.7 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T09:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.48, "sg": 2.48 },
+      "cloudCover": { "noaa": 35.67, "sg": 35.67 },
+      "gust": { "noaa": 13.66, "sg": 13.66 },
+      "humidity": { "noaa": 91.8, "sg": 91.8 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T10:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.39, "sg": 2.39 },
+      "cloudCover": { "noaa": 42.83, "sg": 42.83 },
+      "gust": { "noaa": 13.96, "sg": 13.96 },
+      "humidity": { "noaa": 92.9, "sg": 92.9 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T11:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.3, "sg": 2.3 },
+      "cloudCover": { "noaa": 50, "sg": 50 },
+      "gust": { "noaa": 14.26, "sg": 14.26 },
+      "humidity": { "noaa": 94, "sg": 94 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T12:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 3.14, "sg": 3.14 },
+      "cloudCover": { "noaa": 42.17, "sg": 42.17 },
+      "gust": { "noaa": 13.6, "sg": 13.6 },
+      "humidity": { "noaa": 90.37, "sg": 90.37 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T13:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 3.98, "sg": 3.98 },
+      "cloudCover": { "noaa": 34.33, "sg": 34.33 },
+      "gust": { "noaa": 12.93, "sg": 12.93 },
+      "humidity": { "noaa": 86.73, "sg": 86.73 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T14:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 4.83, "sg": 4.83 },
+      "cloudCover": { "noaa": 26.5, "sg": 26.5 },
+      "gust": { "noaa": 12.27, "sg": 12.27 },
+      "humidity": { "noaa": 83.1, "sg": 83.1 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T15:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.68, "sg": 6.68 },
+      "cloudCover": { "noaa": 18.67, "sg": 18.67 },
+      "gust": { "noaa": 11.38, "sg": 11.38 },
+      "humidity": { "noaa": 71.4, "sg": 71.4 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T16:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 8.52, "sg": 8.52 },
+      "cloudCover": { "noaa": 10.83, "sg": 10.83 },
+      "gust": { "noaa": 10.49, "sg": 10.49 },
+      "humidity": { "noaa": 59.7, "sg": 59.7 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T17:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 10.37, "sg": 10.37 },
+      "cloudCover": { "noaa": 3, "sg": 3 },
+      "gust": { "noaa": 9.6, "sg": 9.6 },
+      "humidity": { "noaa": 48, "sg": 48 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T18:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 9.45, "sg": 9.45 },
+      "cloudCover": { "noaa": 18.33, "sg": 18.33 },
+      "gust": { "noaa": 10.84, "sg": 10.84 },
+      "humidity": { "noaa": 50.83, "sg": 50.83 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T19:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 8.53, "sg": 8.53 },
+      "cloudCover": { "noaa": 33.67, "sg": 33.67 },
+      "gust": { "noaa": 12.07, "sg": 12.07 },
+      "humidity": { "noaa": 53.67, "sg": 53.67 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T20:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 7.62, "sg": 7.62 },
+      "cloudCover": { "noaa": 49, "sg": 49 },
+      "gust": { "noaa": 13.31, "sg": 13.31 },
+      "humidity": { "noaa": 56.5, "sg": 56.5 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T21:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.75, "sg": 6.75 },
+      "cloudCover": { "noaa": 64.33, "sg": 64.33 },
+      "gust": { "noaa": 12.66, "sg": 12.66 },
+      "humidity": { "noaa": 62.2, "sg": 62.2 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T22:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.89, "sg": 5.89 },
+      "cloudCover": { "noaa": 79.67, "sg": 79.67 },
+      "gust": { "noaa": 12, "sg": 12 },
+      "humidity": { "noaa": 67.9, "sg": 67.9 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-15T23:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.03, "sg": 5.03 },
+      "cloudCover": { "noaa": 95, "sg": 95 },
+      "gust": { "noaa": 11.34, "sg": 11.34 },
+      "humidity": { "noaa": 73.6, "sg": 73.6 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T00:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 4.55, "sg": 4.55 },
+      "cloudCover": { "noaa": 81.83, "sg": 81.83 },
+      "gust": { "noaa": 11.78, "sg": 11.78 },
+      "humidity": { "noaa": 74.7, "sg": 74.7 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T01:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 4.08, "sg": 4.08 },
+      "cloudCover": { "noaa": 68.67, "sg": 68.67 },
+      "gust": { "noaa": 12.21, "sg": 12.21 },
+      "humidity": { "noaa": 75.8, "sg": 75.8 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T02:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 3.6, "sg": 3.6 },
+      "cloudCover": { "noaa": 55.5, "sg": 55.5 },
+      "gust": { "noaa": 12.65, "sg": 12.65 },
+      "humidity": { "noaa": 76.9, "sg": 76.9 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T03:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 3.21, "sg": 3.21 },
+      "cloudCover": { "noaa": 42.33, "sg": 42.33 },
+      "gust": { "noaa": 12.55, "sg": 12.55 },
+      "humidity": { "noaa": 75.63, "sg": 75.63 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T04:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.83, "sg": 2.83 },
+      "cloudCover": { "noaa": 29.17, "sg": 29.17 },
+      "gust": { "noaa": 12.45, "sg": 12.45 },
+      "humidity": { "noaa": 74.37, "sg": 74.37 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T05:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.44, "sg": 2.44 },
+      "cloudCover": { "noaa": 16, "sg": 16 },
+      "gust": { "noaa": 12.35, "sg": 12.35 },
+      "humidity": { "noaa": 73.1, "sg": 73.1 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T06:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 1.84, "sg": 1.84 },
+      "cloudCover": { "noaa": 15.17, "sg": 15.17 },
+      "gust": { "noaa": 12.51, "sg": 12.51 },
+      "humidity": { "noaa": 76.03, "sg": 76.03 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T07:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 1.23, "sg": 1.23 },
+      "cloudCover": { "noaa": 14.33, "sg": 14.33 },
+      "gust": { "noaa": 12.66, "sg": 12.66 },
+      "humidity": { "noaa": 78.97, "sg": 78.97 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T08:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 0.63, "sg": 0.63 },
+      "cloudCover": { "noaa": 13.5, "sg": 13.5 },
+      "gust": { "noaa": 12.81, "sg": 12.81 },
+      "humidity": { "noaa": 81.9, "sg": 81.9 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T09:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 0.13, "sg": 0.13 },
+      "cloudCover": { "noaa": 12.67, "sg": 12.67 },
+      "gust": { "noaa": 12.15, "sg": 12.15 },
+      "humidity": { "noaa": 82.9, "sg": 82.9 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T10:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": -0.36, "sg": -0.36 },
+      "cloudCover": { "noaa": 11.83, "sg": 11.83 },
+      "gust": { "noaa": 11.49, "sg": 11.49 },
+      "humidity": { "noaa": 83.9, "sg": 83.9 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T11:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": -0.85, "sg": -0.85 },
+      "cloudCover": { "noaa": 11, "sg": 11 },
+      "gust": { "noaa": 10.82, "sg": 10.82 },
+      "humidity": { "noaa": 84.9, "sg": 84.9 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T12:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": -0.74, "sg": -0.74 },
+      "cloudCover": { "noaa": 9.17, "sg": 9.17 },
+      "gust": { "noaa": 10.5, "sg": 10.5 },
+      "humidity": { "noaa": 80.43, "sg": 80.43 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T13:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": -0.63, "sg": -0.63 },
+      "cloudCover": { "noaa": 7.33, "sg": 7.33 },
+      "gust": { "noaa": 10.18, "sg": 10.18 },
+      "humidity": { "noaa": 75.97, "sg": 75.97 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T14:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": -0.52, "sg": -0.52 },
+      "cloudCover": { "noaa": 5.5, "sg": 5.5 },
+      "gust": { "noaa": 9.86, "sg": 9.86 },
+      "humidity": { "noaa": 71.5, "sg": 71.5 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T15:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 1.1, "sg": 1.1 },
+      "cloudCover": { "noaa": 3.67, "sg": 3.67 },
+      "gust": { "noaa": 8.43, "sg": 8.43 },
+      "humidity": { "noaa": 63.93, "sg": 63.93 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T16:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.71, "sg": 2.71 },
+      "cloudCover": { "noaa": 1.83, "sg": 1.83 },
+      "gust": { "noaa": 6.99, "sg": 6.99 },
+      "humidity": { "noaa": 56.37, "sg": 56.37 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T17:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 4.33, "sg": 4.33 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 5.55, "sg": 5.55 },
+      "humidity": { "noaa": 48.8, "sg": 48.8 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T18:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 4.95, "sg": 4.95 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 5.14, "sg": 5.14 },
+      "humidity": { "noaa": 46.73, "sg": 46.73 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T19:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.57, "sg": 5.57 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 4.74, "sg": 4.74 },
+      "humidity": { "noaa": 44.67, "sg": 44.67 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T20:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.19, "sg": 6.19 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 4.33, "sg": 4.33 },
+      "humidity": { "noaa": 42.6, "sg": 42.6 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T21:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.22, "sg": 5.22 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 3.46, "sg": 3.46 },
+      "humidity": { "noaa": 46.5, "sg": 46.5 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T22:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 4.25, "sg": 4.25 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 2.6, "sg": 2.6 },
+      "humidity": { "noaa": 50.4, "sg": 50.4 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-16T23:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 3.28, "sg": 3.28 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 1.74, "sg": 1.74 },
+      "humidity": { "noaa": 54.3, "sg": 54.3 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T00:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.88, "sg": 2.88 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 1.57, "sg": 1.57 },
+      "humidity": { "noaa": 55.77, "sg": 55.77 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T01:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.49, "sg": 2.49 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 1.39, "sg": 1.39 },
+      "humidity": { "noaa": 57.23, "sg": 57.23 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T02:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.1, "sg": 2.1 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 1.22, "sg": 1.22 },
+      "humidity": { "noaa": 58.7, "sg": 58.7 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T03:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 1.86, "sg": 1.86 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 1.72, "sg": 1.72 },
+      "humidity": { "noaa": 59.67, "sg": 59.67 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T04:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 1.62, "sg": 1.62 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 2.22, "sg": 2.22 },
+      "humidity": { "noaa": 60.63, "sg": 60.63 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T05:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 1.37, "sg": 1.37 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 2.72, "sg": 2.72 },
+      "humidity": { "noaa": 61.6, "sg": 61.6 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T06:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 1.09, "sg": 1.09 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 2.85, "sg": 2.85 },
+      "humidity": { "noaa": 63.03, "sg": 63.03 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T07:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 0.8, "sg": 0.8 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 2.98, "sg": 2.98 },
+      "humidity": { "noaa": 64.47, "sg": 64.47 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T08:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 0.51, "sg": 0.51 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 3.11, "sg": 3.11 },
+      "humidity": { "noaa": 65.9, "sg": 65.9 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T09:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 0.37, "sg": 0.37 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 2.96, "sg": 2.96 },
+      "humidity": { "noaa": 66.23, "sg": 66.23 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T10:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 0.23, "sg": 0.23 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 2.81, "sg": 2.81 },
+      "humidity": { "noaa": 66.57, "sg": 66.57 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T11:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 0.09, "sg": 0.09 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 2.66, "sg": 2.66 },
+      "humidity": { "noaa": 66.9, "sg": 66.9 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T12:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 1.02, "sg": 1.02 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 3.61, "sg": 3.61 },
+      "humidity": { "noaa": 63.27, "sg": 63.27 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T13:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 1.95, "sg": 1.95 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 4.57, "sg": 4.57 },
+      "humidity": { "noaa": 59.63, "sg": 59.63 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T14:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 2.88, "sg": 2.88 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 5.53, "sg": 5.53 },
+      "humidity": { "noaa": 56, "sg": 56 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T15:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.31, "sg": 5.31 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 5.66, "sg": 5.66 },
+      "humidity": { "noaa": 49.47, "sg": 49.47 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T16:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 7.73, "sg": 7.73 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 5.8, "sg": 5.8 },
+      "humidity": { "noaa": 42.93, "sg": 42.93 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T17:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 10.15, "sg": 10.15 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 5.93, "sg": 5.93 },
+      "humidity": { "noaa": 36.4, "sg": 36.4 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T18:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 10.95, "sg": 10.95 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 5.91, "sg": 5.91 },
+      "humidity": { "noaa": 34.83, "sg": 34.83 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T19:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 11.74, "sg": 11.74 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 5.89, "sg": 5.89 },
+      "humidity": { "noaa": 33.27, "sg": 33.27 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T20:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 12.54, "sg": 12.54 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 5.88, "sg": 5.88 },
+      "humidity": { "noaa": 31.7, "sg": 31.7 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T21:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 10.94, "sg": 10.94 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 5.53, "sg": 5.53 },
+      "humidity": { "noaa": 36, "sg": 36 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T22:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 9.33, "sg": 9.33 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 5.17, "sg": 5.17 },
+      "humidity": { "noaa": 40.3, "sg": 40.3 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-17T23:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 7.73, "sg": 7.73 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 4.82, "sg": 4.82 },
+      "humidity": { "noaa": 44.6, "sg": 44.6 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T00:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 7.1, "sg": 7.1 },
+      "cloudCover": { "noaa": 10, "sg": 10 },
+      "gust": { "noaa": 7.36, "sg": 7.36 },
+      "humidity": { "noaa": 48.07, "sg": 48.07 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T01:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.46, "sg": 6.46 },
+      "cloudCover": { "noaa": 20, "sg": 20 },
+      "gust": { "noaa": 9.89, "sg": 9.89 },
+      "humidity": { "noaa": 51.53, "sg": 51.53 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T02:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.83, "sg": 5.83 },
+      "cloudCover": { "noaa": 30, "sg": 30 },
+      "gust": { "noaa": 12.42, "sg": 12.42 },
+      "humidity": { "noaa": 55, "sg": 55 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T03:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.53, "sg": 5.53 },
+      "cloudCover": { "noaa": 40, "sg": 40 },
+      "gust": { "noaa": 12.95, "sg": 12.95 },
+      "humidity": { "noaa": 56.3, "sg": 56.3 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T04:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.23, "sg": 5.23 },
+      "cloudCover": { "noaa": 50, "sg": 50 },
+      "gust": { "noaa": 13.47, "sg": 13.47 },
+      "humidity": { "noaa": 57.6, "sg": 57.6 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T05:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 4.92, "sg": 4.92 },
+      "cloudCover": { "noaa": 60, "sg": 60 },
+      "gust": { "noaa": 14, "sg": 14 },
+      "humidity": { "noaa": 58.9, "sg": 58.9 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T06:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 4.8, "sg": 4.8 },
+      "cloudCover": { "noaa": 66.67, "sg": 66.67 },
+      "gust": { "noaa": 13.65, "sg": 13.65 },
+      "humidity": { "noaa": 58.47, "sg": 58.47 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T07:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 4.68, "sg": 4.68 },
+      "cloudCover": { "noaa": 73.33, "sg": 73.33 },
+      "gust": { "noaa": 13.3, "sg": 13.3 },
+      "humidity": { "noaa": 58.03, "sg": 58.03 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T08:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 4.56, "sg": 4.56 },
+      "cloudCover": { "noaa": 80, "sg": 80 },
+      "gust": { "noaa": 12.95, "sg": 12.95 },
+      "humidity": { "noaa": 57.6, "sg": 57.6 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T09:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 4.32, "sg": 4.32 },
+      "cloudCover": { "noaa": 86.67, "sg": 86.67 },
+      "gust": { "noaa": 13.04, "sg": 13.04 },
+      "humidity": { "noaa": 58.9, "sg": 58.9 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T10:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 4.08, "sg": 4.08 },
+      "cloudCover": { "noaa": 93.33, "sg": 93.33 },
+      "gust": { "noaa": 13.12, "sg": 13.12 },
+      "humidity": { "noaa": 60.2, "sg": 60.2 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T11:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 3.84, "sg": 3.84 },
+      "cloudCover": { "noaa": 100, "sg": 100 },
+      "gust": { "noaa": 13.21, "sg": 13.21 },
+      "humidity": { "noaa": 61.5, "sg": 61.5 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T12:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 4.36, "sg": 4.36 },
+      "cloudCover": { "noaa": 100, "sg": 100 },
+      "gust": { "noaa": 13.51, "sg": 13.51 },
+      "humidity": { "noaa": 59.73, "sg": 59.73 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T13:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 4.88, "sg": 4.88 },
+      "cloudCover": { "noaa": 100, "sg": 100 },
+      "gust": { "noaa": 13.81, "sg": 13.81 },
+      "humidity": { "noaa": 57.97, "sg": 57.97 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T14:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.39, "sg": 5.39 },
+      "cloudCover": { "noaa": 100, "sg": 100 },
+      "gust": { "noaa": 14.11, "sg": 14.11 },
+      "humidity": { "noaa": 56.2, "sg": 56.2 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T15:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 7.28, "sg": 7.28 },
+      "cloudCover": { "noaa": 100, "sg": 100 },
+      "gust": { "noaa": 13.98, "sg": 13.98 },
+      "humidity": { "noaa": 51.33, "sg": 51.33 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T16:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 9.16, "sg": 9.16 },
+      "cloudCover": { "noaa": 100, "sg": 100 },
+      "gust": { "noaa": 13.85, "sg": 13.85 },
+      "humidity": { "noaa": 46.47, "sg": 46.47 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T17:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 11.04, "sg": 11.04 },
+      "cloudCover": { "noaa": 100, "sg": 100 },
+      "gust": { "noaa": 13.73, "sg": 13.73 },
+      "humidity": { "noaa": 41.6, "sg": 41.6 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T18:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 11.76, "sg": 11.76 },
+      "cloudCover": { "noaa": 99.83, "sg": 99.83 },
+      "gust": { "noaa": 13.59, "sg": 13.59 },
+      "humidity": { "noaa": 41.6, "sg": 41.6 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T19:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 12.47, "sg": 12.47 },
+      "cloudCover": { "noaa": 99.67, "sg": 99.67 },
+      "gust": { "noaa": 13.45, "sg": 13.45 },
+      "humidity": { "noaa": 41.6, "sg": 41.6 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T20:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 13.19, "sg": 13.19 },
+      "cloudCover": { "noaa": 99.5, "sg": 99.5 },
+      "gust": { "noaa": 13.31, "sg": 13.31 },
+      "humidity": { "noaa": 41.6, "sg": 41.6 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T21:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 12.59, "sg": 12.59 },
+      "cloudCover": { "noaa": 99.33, "sg": 99.33 },
+      "gust": { "noaa": 14.02, "sg": 14.02 },
+      "humidity": { "noaa": 46.97, "sg": 46.97 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T22:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 11.99, "sg": 11.99 },
+      "cloudCover": { "noaa": 99.17, "sg": 99.17 },
+      "gust": { "noaa": 14.73, "sg": 14.73 },
+      "humidity": { "noaa": 52.33, "sg": 52.33 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-18T23:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 11.39, "sg": 11.39 },
+      "cloudCover": { "noaa": 99, "sg": 99 },
+      "gust": { "noaa": 15.45, "sg": 15.45 },
+      "humidity": { "noaa": 57.7, "sg": 57.7 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T00:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 11.3, "sg": 11.3 },
+      "cloudCover": { "noaa": 90.17, "sg": 90.17 },
+      "gust": { "noaa": 15.74, "sg": 15.74 },
+      "humidity": { "noaa": 60.97, "sg": 60.97 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T01:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 11.2, "sg": 11.2 },
+      "cloudCover": { "noaa": 81.33, "sg": 81.33 },
+      "gust": { "noaa": 16.04, "sg": 16.04 },
+      "humidity": { "noaa": 64.23, "sg": 64.23 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T02:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 11.1, "sg": 11.1 },
+      "cloudCover": { "noaa": 72.5, "sg": 72.5 },
+      "gust": { "noaa": 16.33, "sg": 16.33 },
+      "humidity": { "noaa": 67.5, "sg": 67.5 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T03:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 11.04, "sg": 11.04 },
+      "cloudCover": { "noaa": 63.67, "sg": 63.67 },
+      "gust": { "noaa": 16.49, "sg": 16.49 },
+      "humidity": { "noaa": 69.7, "sg": 69.7 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T04:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 10.98, "sg": 10.98 },
+      "cloudCover": { "noaa": 54.83, "sg": 54.83 },
+      "gust": { "noaa": 16.65, "sg": 16.65 },
+      "humidity": { "noaa": 71.9, "sg": 71.9 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T05:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 10.92, "sg": 10.92 },
+      "cloudCover": { "noaa": 46, "sg": 46 },
+      "gust": { "noaa": 16.8, "sg": 16.8 },
+      "humidity": { "noaa": 74.1, "sg": 74.1 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T06:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 10.64, "sg": 10.64 },
+      "cloudCover": { "noaa": 38.33, "sg": 38.33 },
+      "gust": { "noaa": 16.9, "sg": 16.9 },
+      "humidity": { "noaa": 77.23, "sg": 77.23 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T07:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 10.36, "sg": 10.36 },
+      "cloudCover": { "noaa": 30.67, "sg": 30.67 },
+      "gust": { "noaa": 17, "sg": 17 },
+      "humidity": { "noaa": 80.37, "sg": 80.37 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T08:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 10.08, "sg": 10.08 },
+      "cloudCover": { "noaa": 23, "sg": 23 },
+      "gust": { "noaa": 17.1, "sg": 17.1 },
+      "humidity": { "noaa": 83.5, "sg": 83.5 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T09:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 9.91, "sg": 9.91 },
+      "cloudCover": { "noaa": 15.33, "sg": 15.33 },
+      "gust": { "noaa": 16.84, "sg": 16.84 },
+      "humidity": { "noaa": 80.8, "sg": 80.8 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T10:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 9.73, "sg": 9.73 },
+      "cloudCover": { "noaa": 7.67, "sg": 7.67 },
+      "gust": { "noaa": 16.58, "sg": 16.58 },
+      "humidity": { "noaa": 78.1, "sg": 78.1 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T11:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 9.55, "sg": 9.55 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 16.32, "sg": 16.32 },
+      "humidity": { "noaa": 75.4, "sg": 75.4 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T12:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 9.27, "sg": 9.27 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 15.31, "sg": 15.31 },
+      "humidity": { "noaa": 66.33, "sg": 66.33 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T13:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 8.99, "sg": 8.99 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 14.31, "sg": 14.31 },
+      "humidity": { "noaa": 57.27, "sg": 57.27 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T14:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 8.71, "sg": 8.71 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 13.31, "sg": 13.31 },
+      "humidity": { "noaa": 48.2, "sg": 48.2 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T15:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 9.29, "sg": 9.29 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 12.95, "sg": 12.95 },
+      "humidity": { "noaa": 49.83, "sg": 49.83 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T16:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 9.88, "sg": 9.88 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 12.58, "sg": 12.58 },
+      "humidity": { "noaa": 51.47, "sg": 51.47 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T17:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 10.47, "sg": 10.47 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 12.21, "sg": 12.21 },
+      "humidity": { "noaa": 53.1, "sg": 53.1 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T18:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 11.5, "sg": 11.5 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 11.75, "sg": 11.75 },
+      "humidity": { "noaa": 49.57, "sg": 49.57 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T19:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 12.54, "sg": 12.54 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 11.29, "sg": 11.29 },
+      "humidity": { "noaa": 46.03, "sg": 46.03 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T20:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 13.57, "sg": 13.57 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 10.83, "sg": 10.83 },
+      "humidity": { "noaa": 42.5, "sg": 42.5 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T21:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 12.07, "sg": 12.07 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 9.76, "sg": 9.76 },
+      "humidity": { "noaa": 48.1, "sg": 48.1 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T22:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 10.57, "sg": 10.57 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 8.7, "sg": 8.7 },
+      "humidity": { "noaa": 53.7, "sg": 53.7 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-19T23:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 9.07, "sg": 9.07 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 7.64, "sg": 7.64 },
+      "humidity": { "noaa": 59.3, "sg": 59.3 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T00:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 8.32, "sg": 8.32 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 6.73, "sg": 6.73 },
+      "humidity": { "noaa": 63.43, "sg": 63.43 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T01:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 7.58, "sg": 7.58 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 5.82, "sg": 5.82 },
+      "humidity": { "noaa": 67.57, "sg": 67.57 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T02:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.83, "sg": 6.83 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 4.91, "sg": 4.91 },
+      "humidity": { "noaa": 71.7, "sg": 71.7 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T03:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.28, "sg": 6.28 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 4.38, "sg": 4.38 },
+      "humidity": { "noaa": 74.7, "sg": 74.7 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T04:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.73, "sg": 5.73 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 3.85, "sg": 3.85 },
+      "humidity": { "noaa": 77.7, "sg": 77.7 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T05:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.17, "sg": 5.17 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 3.32, "sg": 3.32 },
+      "humidity": { "noaa": 80.7, "sg": 80.7 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T06:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 4.8, "sg": 4.8 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 2.72, "sg": 2.72 },
+      "humidity": { "noaa": 82.17, "sg": 82.17 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T07:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 4.43, "sg": 4.43 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 2.12, "sg": 2.12 },
+      "humidity": { "noaa": 83.63, "sg": 83.63 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T08:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 4.05, "sg": 4.05 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 1.52, "sg": 1.52 },
+      "humidity": { "noaa": 85.1, "sg": 85.1 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T09:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 3.9, "sg": 3.9 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 1.66, "sg": 1.66 },
+      "humidity": { "noaa": 85.1, "sg": 85.1 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T10:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 3.74, "sg": 3.74 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 1.79, "sg": 1.79 },
+      "humidity": { "noaa": 85.1, "sg": 85.1 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T11:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 3.59, "sg": 3.59 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 1.93, "sg": 1.93 },
+      "humidity": { "noaa": 85.1, "sg": 85.1 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T12:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 4.37, "sg": 4.37 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 2.86, "sg": 2.86 },
+      "humidity": { "noaa": 81.3, "sg": 81.3 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T13:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.14, "sg": 5.14 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 3.79, "sg": 3.79 },
+      "humidity": { "noaa": 77.5, "sg": 77.5 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T14:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 5.92, "sg": 5.92 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 4.71, "sg": 4.71 },
+      "humidity": { "noaa": 73.7, "sg": 73.7 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T15:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 8.09, "sg": 8.09 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 5.65, "sg": 5.65 },
+      "humidity": { "noaa": 65.63, "sg": 65.63 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T16:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 10.26, "sg": 10.26 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 6.58, "sg": 6.58 },
+      "humidity": { "noaa": 57.57, "sg": 57.57 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T17:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 12.43, "sg": 12.43 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 7.52, "sg": 7.52 },
+      "humidity": { "noaa": 49.5, "sg": 49.5 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T18:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 13.78, "sg": 13.78 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 8.06, "sg": 8.06 },
+      "humidity": { "noaa": 43.03, "sg": 43.03 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T19:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 15.13, "sg": 15.13 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 8.6, "sg": 8.6 },
+      "humidity": { "noaa": 36.57, "sg": 36.57 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T20:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 16.49, "sg": 16.49 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 9.15, "sg": 9.15 },
+      "humidity": { "noaa": 30.1, "sg": 30.1 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T21:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 14.32, "sg": 14.32 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 8.2, "sg": 8.2 },
+      "humidity": { "noaa": 34.8, "sg": 34.8 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T22:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 12.16, "sg": 12.16 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 7.25, "sg": 7.25 },
+      "humidity": { "noaa": 39.5, "sg": 39.5 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-20T23:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 10, "sg": 10 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 6.31, "sg": 6.31 },
+      "humidity": { "noaa": 44.2, "sg": 44.2 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T00:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 9.16, "sg": 9.16 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 5.55, "sg": 5.55 },
+      "humidity": { "noaa": 46.97, "sg": 46.97 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T01:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 8.33, "sg": 8.33 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 4.79, "sg": 4.79 },
+      "humidity": { "noaa": 49.73, "sg": 49.73 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T02:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 7.5, "sg": 7.5 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 4.02, "sg": 4.02 },
+      "humidity": { "noaa": 52.5, "sg": 52.5 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T03:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 7.1, "sg": 7.1 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 3.32, "sg": 3.32 },
+      "humidity": { "noaa": 54.13, "sg": 54.13 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T04:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.7, "sg": 6.7 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 2.62, "sg": 2.62 },
+      "humidity": { "noaa": 55.77, "sg": 55.77 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T05:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.3, "sg": 6.3 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 1.92, "sg": 1.92 },
+      "humidity": { "noaa": 57.4, "sg": 57.4 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T06:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.39, "sg": 6.39 },
+      "cloudCover": { "noaa": 0.17, "sg": 0.17 },
+      "gust": { "noaa": 2.12, "sg": 2.12 },
+      "humidity": { "noaa": 55.73, "sg": 55.73 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T07:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.49, "sg": 6.49 },
+      "cloudCover": { "noaa": 0.33, "sg": 0.33 },
+      "gust": { "noaa": 2.32, "sg": 2.32 },
+      "humidity": { "noaa": 54.07, "sg": 54.07 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T08:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.58, "sg": 6.58 },
+      "cloudCover": { "noaa": 0.5, "sg": 0.5 },
+      "gust": { "noaa": 2.52, "sg": 2.52 },
+      "humidity": { "noaa": 52.4, "sg": 52.4 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T09:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.4, "sg": 6.4 },
+      "cloudCover": { "noaa": 0.67, "sg": 0.67 },
+      "gust": { "noaa": 3.62, "sg": 3.62 },
+      "humidity": { "noaa": 52.33, "sg": 52.33 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T10:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.23, "sg": 6.23 },
+      "cloudCover": { "noaa": 0.83, "sg": 0.83 },
+      "gust": { "noaa": 4.71, "sg": 4.71 },
+      "humidity": { "noaa": 52.27, "sg": 52.27 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T11:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.05, "sg": 6.05 },
+      "cloudCover": { "noaa": 1, "sg": 1 },
+      "gust": { "noaa": 5.81, "sg": 5.81 },
+      "humidity": { "noaa": 52.2, "sg": 52.2 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T12:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 6.74, "sg": 6.74 },
+      "cloudCover": { "noaa": 0.83, "sg": 0.83 },
+      "gust": { "noaa": 5.95, "sg": 5.95 },
+      "humidity": { "noaa": 47.2, "sg": 47.2 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T13:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 7.43, "sg": 7.43 },
+      "cloudCover": { "noaa": 0.67, "sg": 0.67 },
+      "gust": { "noaa": 6.09, "sg": 6.09 },
+      "humidity": { "noaa": 42.2, "sg": 42.2 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T14:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 8.12, "sg": 8.12 },
+      "cloudCover": { "noaa": 0.5, "sg": 0.5 },
+      "gust": { "noaa": 6.23, "sg": 6.23 },
+      "humidity": { "noaa": 37.2, "sg": 37.2 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T15:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 10.18, "sg": 10.18 },
+      "cloudCover": { "noaa": 0.33, "sg": 0.33 },
+      "gust": { "noaa": 5.7, "sg": 5.7 },
+      "humidity": { "noaa": 34.47, "sg": 34.47 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T16:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 12.25, "sg": 12.25 },
+      "cloudCover": { "noaa": 0.17, "sg": 0.17 },
+      "gust": { "noaa": 5.17, "sg": 5.17 },
+      "humidity": { "noaa": 31.73, "sg": 31.73 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T17:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 14.31, "sg": 14.31 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 4.64, "sg": 4.64 },
+      "humidity": { "noaa": 29, "sg": 29 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T18:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 15.05, "sg": 15.05 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 3.43, "sg": 3.43 },
+      "humidity": { "noaa": 28.07, "sg": 28.07 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T19:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 15.78, "sg": 15.78 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 2.23, "sg": 2.23 },
+      "humidity": { "noaa": 27.13, "sg": 27.13 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T20:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 16.52, "sg": 16.52 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 1.02, "sg": 1.02 },
+      "humidity": { "noaa": 26.2, "sg": 26.2 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T21:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 15.14, "sg": 15.14 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 1.76, "sg": 1.76 },
+      "humidity": { "noaa": 29.5, "sg": 29.5 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T22:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 13.75, "sg": 13.75 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 2.49, "sg": 2.49 },
+      "humidity": { "noaa": 32.8, "sg": 32.8 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-21T23:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 12.37, "sg": 12.37 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 3.22, "sg": 3.22 },
+      "humidity": { "noaa": 36.1, "sg": 36.1 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T00:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 12.31, "sg": 12.31 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 4.24, "sg": 4.24 },
+      "humidity": { "noaa": 35.62, "sg": 35.62 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T01:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 12.25, "sg": 12.25 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 5.25, "sg": 5.25 },
+      "humidity": { "noaa": 35.13, "sg": 35.13 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T02:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 12.2, "sg": 12.2 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 6.27, "sg": 6.27 },
+      "humidity": { "noaa": 34.65, "sg": 34.65 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T03:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 12.14, "sg": 12.14 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 7.28, "sg": 7.28 },
+      "humidity": { "noaa": 34.17, "sg": 34.17 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T04:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 12.09, "sg": 12.09 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 8.3, "sg": 8.3 },
+      "humidity": { "noaa": 33.68, "sg": 33.68 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T05:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 12.03, "sg": 12.03 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 9.31, "sg": 9.31 },
+      "humidity": { "noaa": 33.2, "sg": 33.2 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T06:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 11.97, "sg": 11.97 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 10.33, "sg": 10.33 },
+      "humidity": { "noaa": 32.72, "sg": 32.72 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T07:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 11.92, "sg": 11.92 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 11.34, "sg": 11.34 },
+      "humidity": { "noaa": 32.23, "sg": 32.23 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T08:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 11.86, "sg": 11.86 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 12.36, "sg": 12.36 },
+      "humidity": { "noaa": 31.75, "sg": 31.75 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T09:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 11.8, "sg": 11.8 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 13.37, "sg": 13.37 },
+      "humidity": { "noaa": 31.27, "sg": 31.27 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T10:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 11.75, "sg": 11.75 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 14.39, "sg": 14.39 },
+      "humidity": { "noaa": 30.78, "sg": 30.78 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T11:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 11.69, "sg": 11.69 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 15.4, "sg": 15.4 },
+      "humidity": { "noaa": 30.3, "sg": 30.3 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T12:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 11.56, "sg": 11.56 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 14.64, "sg": 14.64 },
+      "humidity": { "noaa": 30.77, "sg": 30.77 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T13:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 11.43, "sg": 11.43 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 13.88, "sg": 13.88 },
+      "humidity": { "noaa": 31.23, "sg": 31.23 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T14:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 11.3, "sg": 11.3 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 13.13, "sg": 13.13 },
+      "humidity": { "noaa": 31.7, "sg": 31.7 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T15:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 11.17, "sg": 11.17 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 12.37, "sg": 12.37 },
+      "humidity": { "noaa": 32.17, "sg": 32.17 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T16:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 11.04, "sg": 11.04 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 11.61, "sg": 11.61 },
+      "humidity": { "noaa": 32.63, "sg": 32.63 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T17:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 10.9, "sg": 10.9 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 10.85, "sg": 10.85 },
+      "humidity": { "noaa": 33.1, "sg": 33.1 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T18:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 10.77, "sg": 10.77 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 10.1, "sg": 10.1 },
+      "humidity": { "noaa": 33.57, "sg": 33.57 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T19:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 10.64, "sg": 10.64 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 9.34, "sg": 9.34 },
+      "humidity": { "noaa": 34.03, "sg": 34.03 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T20:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 10.51, "sg": 10.51 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 8.58, "sg": 8.58 },
+      "humidity": { "noaa": 34.5, "sg": 34.5 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T21:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 10.38, "sg": 10.38 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 7.82, "sg": 7.82 },
+      "humidity": { "noaa": 34.97, "sg": 34.97 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T22:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 10.25, "sg": 10.25 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 7.07, "sg": 7.07 },
+      "humidity": { "noaa": 35.43, "sg": 35.43 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-22T23:00:00+00:00"
+    },
+    {
+      "airTemperature": { "noaa": 10.12, "sg": 10.12 },
+      "cloudCover": { "noaa": 0, "sg": 0 },
+      "gust": { "noaa": 6.31, "sg": 6.31 },
+      "humidity": { "noaa": 35.9, "sg": 35.9 },
+      "precipitation": { "noaa": 0, "sg": 0 },
+      "time": "2020-12-23T00:00:00+00:00"
+    }
+  ],
+  "meta": {
+    "cost": 1,
+    "dailyQuota": 50,
+    "end": "2020-12-23 00:00",
+    "lat": 33.5600707,
+    "lng": -97.83071120000001,
+    "params": [
+      "airTemperature",
+      "cloudCover",
+      "gust",
+      "humidity",
+      "precipitation"
+    ],
+    "requestCount": 2,
+    "start": "2020-12-13 00:00"
+  }
+}
