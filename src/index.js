@@ -4,6 +4,11 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+function app ({ loaded }) {
+  if (!loaded) {
+    return null;
+  }
+}
 ReactDOM.render(
   <React.StrictMode>
     <App />

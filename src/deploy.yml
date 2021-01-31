@@ -1,0 +1,29 @@
+name: Deploy to GitHub Pages
+on:
+  push:
+    branches:
+      - master
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [13.2.0]
+    steps:
+      - uses: actions/checkout@master
+      - name: install, build, and test
+        run: |
+          yarn install
+          yarn lint
+          yarn build
+          yarn test
+        env:
+          CI: true
+      - name: Deploy to production
+        uses: Scotsquared/deploy-to-github-pages-action@1.1.1
+        env:
+          AUTHOR: Scotsquared
+          BUILD_PATH: public
+          GITHUB_PAGE_NAME: weather-app.github.io
+          PA_TOKEN: ${{ 218dc86720b56eaa819a0ee6ab60e07ba7f691e1 }}
+          
