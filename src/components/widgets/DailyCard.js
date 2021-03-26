@@ -1,23 +1,20 @@
 import React from 'react';
-import date from './Body/Body'
 import moment from 'moment'
-import { StyleSheet, Text, View } from "react-dom"
-import { SportsRugbySharp } from '@material-ui/icons';
+
+import { temperature } from 'utils/common';
 const DailyCard = props => {
-    const { day } = props;
+    const { day, unit } = props;
     const { temp, weather } = day
-    const DATE_TIME_FORMAT = 'MMMM Do YYYY';
+    const DATE_TIME_FORMAT = 'dddd MMM YYYY';
     const iconurl = "http://openweathermap.org/img/w/" + `${weather[0].icon}` + ".png"
-    moment.unix().format(DATE_TIME_FORMAT);
-    const formatedDateTime =(dt)=> moment.unix(1608038225).format(DATE_TIME_FORMAT);
+
     return <div className="Daily-Card">
 
-        {/* <p>{id}</p> */}
         <img src={iconurl} className="weather-icon" alt="" />
-        <div style={styles.container}>{temp.day}<sup>o</sup></div>
-        <div style={styles.date}>{moment.unix(day.dt).format('dddd MMM YYYY')}</div>
+        <div style={styles.container}>{temperature(temp.day, unit)}<sup>o</sup></div>
+        <div style={styles.date}>{moment.unix(day.dt).format(DATE_TIME_FORMAT)}</div>
         <p>{weather[0].description}</p>
-        <div style={styles.minMax}>      {temp.min}<sup>o</sup>/{temp.max}<sup>o</sup></div>
+        <div style={styles.minMax}>{temperature(temp.min, unit)}<sup>o</sup>/{temperature(temp.max, unit)}<sup>o</sup></div>
 
 
 
@@ -38,9 +35,10 @@ let styles = {
         fontSize: 102,
         fontWeight: 900,
 
-        textShadow: 3,
         textShadow: "rgba(50, 50, 70, 0.5)",
         textAlign: 'center',
+        paddingRight: 10,
+        paddingLeft: 10,
     },
     minMax: {
         position: 'realative',

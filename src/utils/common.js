@@ -1,4 +1,6 @@
-async function getCurrentPosition(setLocation) {
+// getCurrentPosition checks navigator for availablity of geolocation service
+// if a setState callback is passed it will try to set the states latitude and longitude
+const getCurrentPosition = async (setLocation) => {
   const ERROR = {
     0: 'Geolocation is not supported by this browser.',
     1: 'User denied the request for Geolocation.',
@@ -6,6 +8,7 @@ async function getCurrentPosition(setLocation) {
     3: 'The request to get user location timed out.',
     4: 'An unknown error occurred.',
   };
+
   // positionHandler callback method to deconstruct the coords from position
   const positionHandler = async (position) => {
     if (!position) {
@@ -33,13 +36,14 @@ async function getCurrentPosition(setLocation) {
     setLocation &&
       setLocation((location) => ({ ...location, ...{ error: ERROR[code] } }));
   };
+
   try {
     const position = await doGetCurrentPosition();
     return await positionHandler(position);
   } catch (error) {
     errorHandler(error);
   }
-}
+};
 
 export const doGetCurrentPosition = () => {
   if (navigator.geolocation) {
@@ -53,4 +57,13 @@ export const doGetCurrentPosition = () => {
     return new Promise((resolve) => resolve({}));
   }
 };
-export { getCurrentPosition };
+
+
+const celsiusToFahrenheit = (celsius) => {
+  return ((celsius * 9) / 5 + 32).toFixed(0);
+};
+
+const temperature = (temp, unit) =>
+  unit === 'F' ? celsiusToFahrenheit(temp) : temp.toFixed(0);
+
+export { getCurrentPosition, temperature };

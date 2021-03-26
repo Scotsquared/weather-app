@@ -6,6 +6,9 @@
 body{
   font-family: 'monsteratt', sans-serif;
 }
+body:hover{
+  opacity: 1;
+}
 .App {
   background: url(https://i.imgur.com/aDbrNkm.jpg);
   background-size: cover;
@@ -19,6 +22,7 @@ main{
   padding: 25px;
   overflow: hidden;
 }
+
 .Daily-Card {
 
 
@@ -44,17 +48,27 @@ text-shadow: 3px 6px rgba(50, 50, 70, 0.5);
 
 
 }
+temp-unit:hover{
+  opacity: 1;
+}
 .weather-icon{
 width: 160px;
 padding: 1px 1px;
 height: 160px;
 }
-
+.location:hover {
+  opacity:1.;
+}
+.search-bar:hover {
+  opacity: 1;
+}
 .Button {
   font-family: 'monsteratt';
-
+  
 }
- 
+ .Button:hover{
+   opacity: 1;
+ }
 .Card-Container {
   overflow: auto;
   height: 900px;
