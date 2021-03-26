@@ -3,8 +3,12 @@
   padding: 0%;
   box-sizing: border-box;
 }
-body{
+html, body{
   font-family: 'monsteratt', sans-serif;
+  height: 100vh; 
+}
+.root{
+  height: 100vh;
 }
 body:hover{
   opacity: 1;
@@ -71,7 +75,7 @@ height: 160px;
  }
 .Card-Container {
   overflow: auto;
-  height: 900px;
+  height: 100;
   width: 100%;
   white-space: nowrap;
   margin: 0 0px;
